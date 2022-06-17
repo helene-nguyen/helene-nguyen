@@ -20,7 +20,7 @@ Building personal websites and web applications, ensure security, deployment.
 
 Love learning, code review, pair programming 👥
 
-* BACK END 🔙🔚
+* **BACK END** 🔙🔚
 
 🧩 JAVASCRIPT Node.js <3
 📘 Node.js with Express
@@ -30,45 +30,39 @@ Love learning, code review, pair programming 👥
 🔄 ORM - Sequelize / Mongoose
 🔐 Security encrypt datas
 
-* FRONT END
+* **FRONT END**
 
 🎨 HTML/CSS
 🎇 JAVASCRIPT
 🎀 CSS Bootstrap / Bulma
 
-* VERSIONING
+* **VERSIONING**
 
 🐱‍👤 Git / GitHub
 🔴 SQITCH with Docker or Windows
 
-* DATABASE
+* **DATABASE**
 
 💼 SQL
 🐘 PostgreSQL - PgAdmin
 📄 NoSQL
 🍃 MongoDB - Mongosh/MongoDB Compass
 
-* ARCHITECTURE
-
+* **ARCHITECTURE** =>
 🎞 Models Views Controllers
 ♾ API RESTful
 
-* METHOD
-
+* **METHOD** =>
 💢 Agile (Scrum)
 🍒 Merise method (CDM, GPM, PDM)
 
-* CMS
-
+* **CMS** =>
 ❇ Strapi
 
-* DEPLOYMENT
-
+* **DEPLOYMENT** =>
 ♓ Heroku
 
-* DEVOPS
-
-🐳 Docker
+* **DEVOPS** => 🐳 Docker
 
 <hr>
 
