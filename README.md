@@ -26,9 +26,11 @@ Love learning, code review, pair programming 👥
 
 ___
 
+<div align="center">
+
 |Specialization|TECHNO|
 |--|--|
-|**BACK END** 🔙🔚|🧩 JAVASCRIPT NodeJS <3 
+|**BACK END** 🔙🔚|🧩 JAVASCRIPT NodeJS <3
 ||📘 NodeJS with Express
 ||🍪 Cookies & Session
 ||🗼 Authorization Json Web Token
@@ -40,7 +42,7 @@ ___
 |**FRONT END**|---|
 ||🎨 HTML/CSS
 ||🎇 JAVASCRIPT
-||🎀 CSS Bootstrap / Bulma 
+||🎀 CSS Bootstrap / Bulma
 ||🩱  Sass
 ||🎏 ReactJS
 |**VERSIONING**|---|
@@ -50,7 +52,7 @@ ___
 ||💼 SQL
 ||🐘 PostgreSQL - PgAdmin
 ||🎫 PLpgSQL Procedural Language // Functions - Views - Indexes
-||🗝 Ensure data security // Domains check value 
+||🗝 Ensure data security // Domains check value
 ||📄 NoSQL
 ||🍃 MongoDB - Mongosh/MongoDB Compass
 |**ARCHITECTURE**|---|
@@ -72,7 +74,7 @@ ___
 |**DOCUMENTATION**|---|
 ||🎊 JSdocs with SwaggerDocs
 
-
+</div>
 
 <hr>
 
