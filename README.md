@@ -16,53 +16,63 @@
 
 My name is Helene and I'm a fullstack web developper. I'm from France living in Colmar 🇫🇷
 
-Building personal websites and web applications, ensure security, deployment.
+Specialized in Javascript - NodeJS and love playing with data for optimizations 🛡️
+
+Building personal APIs RESTful, APIs Graphql, websites and web applications, ensure security, deployment.
+
+Always willing to learn, I'm organized and detailed-oriented.
 
 Love learning, code review, pair programming 👥
 
-* **BACK END** 🔙🔚
+___
 
-🧩 JAVASCRIPT Node.js <3
-📘 Node.js with Express
-🖼 EJS views
-🍪 Cookies & Session
-🗺 DataMapper (queries) / Active Record (models)
-🔄 ORM - Sequelize / Mongoose
-🔐 Security encrypt datas
+|Specialization|TECHNO|
+|--|--|
+|**BACK END** 🔙🔚|🧩 JAVASCRIPT NodeJS <3 
+||📘 NodeJS with Express
+||🍪 Cookies & Session
+||🗼 Authorization Json Web Token
+||🗺 DataMapper (queries) / Active Record (models)
+||🔄 ORM - Sequelize / Mongoose
+||🔐 Security encrypt datas Bcrypt - Joi
+||🖼 EJS views
+||🎢 FTP server - Filezilla
+|**FRONT END**|---|
+||🎨 HTML/CSS
+||🎇 JAVASCRIPT
+||🎀 CSS Bootstrap / Bulma 
+||🩱  Sass
+||🎏 ReactJS
+|**VERSIONING**|---|
+||🐱‍👤 Git / GitHub
+||🔴 SQITCH with Docker or Windows
+|**DATABASE**|---|
+||💼 SQL
+||🐘 PostgreSQL - PgAdmin
+||🎫 PLpgSQL Procedural Language // Functions - Views - Indexes
+||🗝 Ensure data security // Domains check value 
+||📄 NoSQL
+||🍃 MongoDB - Mongosh/MongoDB Compass
+|**ARCHITECTURE**|---|
+||🎞 Models Views Controllers (MVC)
+||♾ API RESTful
+||☸ API GraphQL - Apollo Server Express Datasources / Dataloaders
+|**PROGRAMMING**|---|
+||🕹OOP (Object Oriented Programming)
+|**METHOD**|---|
+||💢 Agile (Scrum)
+||🍒 Merise method (CDM, GPM, PDM)
+|**CMS**|---|
+||❇ Strapi
+||🎫 WordPress
+|**DEPLOYMENT**|---|
+||♓ Heroku
+|**DEVOPS**|---|
+||🐳 Docker
+|**DOCUMENTATION**|---|
+||🎊 JSdocs with SwaggerDocs
 
-* **FRONT END**
 
-🎨 HTML/CSS
-🎇 JAVASCRIPT
-🎀 CSS Bootstrap / Bulma
-
-* **VERSIONING**
-
-🐱‍👤 Git / GitHub
-🔴 SQITCH with Docker or Windows
-
-* **DATABASE**
-
-💼 SQL
-🐘 PostgreSQL - PgAdmin
-📄 NoSQL
-🍃 MongoDB - Mongosh/MongoDB Compass
-
-* **ARCHITECTURE** =>
-🎞 Models Views Controllers
-♾ API RESTful
-
-* **METHOD** =>
-💢 Agile (Scrum)
-🍒 Merise method (CDM, GPM, PDM)
-
-* **CMS** =>
-❇ Strapi
-
-* **DEPLOYMENT** =>
-♓ Heroku
-
-* **DEVOPS** => 🐳 Docker
 
 <hr>
 
