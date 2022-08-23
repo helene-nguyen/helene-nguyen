@@ -89,7 +89,7 @@ ___
 <div align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=helene-nguyen&theme=ads-juicy-fresh'></div>
 
 <hr>
-<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=helene-nguyen&hide=contribs,prs,issues&show_icons=true&theme=highcontrast'></div>
+<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=helene-nguyen&show_icons=true&theme=highcontrast'></div>
 
 <hr>
 
