@@ -12,9 +12,15 @@
   </a>
 </div>
 
-<h1 align="center">🌿 Hi everyone</h1>
+___
 
-My name is Helene and I'm a fullstack web developper. I'm from France living in Colmar 🇫🇷
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Helene.;Take+a+seat;And+let's+go+!&color=fff&size=35&width=500&font=source+code+pro)](https://git.io/typing-svg)
+
+
+My name is Helene and I'm a fullstack developper. 
+I'm from France living in Colmar 🇫🇷
 
 Specialized in Javascript - NodeJS and love playing with data for optimizations 🛡️
 
