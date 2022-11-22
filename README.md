@@ -16,10 +16,10 @@ ___
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Helene.;I'm+a+fullstack+developper;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Helene.;I'm+a+fullstack+developper;And+database+administrator+!;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
 
 
-My name is Helene and I'm a fullstack developper. 
+My name is Helene and I'm a fullstack developper and database administrator PostgreSQL. 
 I'm from France living in Colmar 🇫🇷
 
 Specialized in Javascript - NodeJS and love playing with data for optimizations 🛡️
@@ -38,23 +38,27 @@ ___
 
 |Specialization|TECHNO|
 |--|--|
-|**BACK END** 🔙🔚|🧩 JAVASCRIPT NodeJS <3
-||📘 NodeJS with Express
+|**BACK END** 🔙🔚|
+||🧩 NodeJS
+||🏰 Typescript
+||📘 Express Framework
 ||🍪 Cookies & Session
 ||🗼 Authorization Json Web Token
 ||🗺 DataMapper (queries) / Active Record (models)
 ||🔄 ORM - Sequelize / Mongoose
-||🔐 Security encrypt datas Bcrypt - Joi
+||🔐 Security encrypt datas Bcrypt - Joi - AJV
 ||🖼 EJS views
+||✉️ Nodemailer
 ||🎢 FTP server - Filezilla
 |**FRONT END**|---|
 ||🎨 HTML/CSS
 ||🎇 JAVASCRIPT
 ||🎀 CSS Bootstrap / Bulma
-||🩱  Sass
+||🩱  SASS - Syntactically Awesome StyleSheet 
 ||🎏 ReactJS
+||🏰 Typescript
 |**VERSIONING**|---|
-||🐱‍👤 Git / GitHub
+||🐱‍👤 Git / GitHub / Gitea / Gitlab
 ||🔴 SQITCH with Docker or Windows
 |**DATABASE**|---|
 ||💼 SQL
@@ -67,6 +71,7 @@ ___
 ||🎞 Models Views Controllers (MVC)
 ||♾ API RESTful
 ||☸ API GraphQL - Apollo Server Express Datasources / Dataloaders
+||📐 Hexagonal architecture 
 |**PROGRAMMING**|---|
 ||🕹OOP (Object Oriented Programming)
 |**METHOD**|---|
@@ -75,10 +80,13 @@ ___
 |**CMS**|---|
 ||❇ Strapi
 ||🎫 WordPress
+||🎃 Kirby open source
 |**DEPLOYMENT**|---|
 ||♓ Heroku
+||🎫 VPS InstaFree
 |**DEVOPS**|---|
 ||🐳 Docker
+||🅰️ Ansible
 |**DOCUMENTATION**|---|
 ||🎊 JSdocs with SwaggerDocs
 
