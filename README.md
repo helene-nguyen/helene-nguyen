@@ -31,7 +31,7 @@ Let's work together !
 
 ---
 
-<!-- <div align="center">
+<div align="center">
 
 |Specialization|TECHNO|
 |--|--|
@@ -87,7 +87,7 @@ Let's work together !
 |**DOCUMENTATION**|---|
 ||🎊 JSdocs with SwaggerDocs
 
-</div> -->
+</div>
 
 <hr>
 
