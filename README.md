@@ -21,18 +21,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Helene.;I'm+a+fullstack+developper;And+database+administrator+!;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
 
-My name is Helene and I'm a fullstack developper and database administrator PostgreSQL.
-I'm from France living in Colmar 🇫🇷
+Fullstack Developer, experienced in both Front-end and Back-end development, my name is Helene and my friends call me Yumi. I'm from France living in Colmar 🇫🇷
 
-Specialized in Javascript - NodeJS and love playing with data for optimizations 🛡️
+I'm a passionate Software Developer & Database Administrator for PostgreSQL databases, working with a variety of technologies. From coding and deployment, to maintenance and updates. Using DevOps tools, I work hard to create clean architecture and clean code.
 
-Building personal APIs RESTful, APIs GraphQL, websites and web applications, ensure security, deployment.
+I'm smiling, I'm positive, super motivated, always willing to learn. I'm here to build positive relationships, find creative solutions to complex problems. I love pair programming and have a good team spirit.
 
-Interest in cybersecurity and data performances 🔒
-
-Always willing to learn, I'm organized and detailed-oriented.
-
-Love learning, code review, pair programming 👥
+Let's work together !
 
 ---
 
@@ -98,20 +93,19 @@ Love learning, code review, pair programming 👥
 
 ## 🍃 Streak stats
 
-<div align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=helene-nguyen&theme=ads-juicy-fresh' width="100%">
-</div>
-
 <div align="right">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=helene-nguyen&layout=compact&theme=highcontrast' width="50%">
-
+<img src='https://github-readme-stats.vercel.app/api?username=helene-nguyen&show_icons=true&theme=highcontrast' width="70%">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=helene-nguyen&layout=compact&theme=highcontrast' width="29%">
 </div>
-<img src='https://github-readme-stats.vercel.app/api?username=helene-nguyen&show_icons=true&theme=highcontrast' width="50%">
 
 <hr/>
 
 ## 🐍 Contributions
 
 ![Snake animation](https://github.com/helene-nguyen/helene-nguyen/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=helene-nguyen&theme=ads-juicy-fresh' width="100%">
+</div>
 
 ---
 
