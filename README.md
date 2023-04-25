@@ -113,3 +113,4 @@ Sources :
 
 - [Badges](https://shields.io/category/build)
 - [Contributions](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Integrte snake animation](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme)
