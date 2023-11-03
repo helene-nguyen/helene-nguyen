@@ -1,4 +1,4 @@
-<div align="center"><img src='./yumicode.gif'></div>
+<div align="center"><img src='./banner-yumicode.png'></div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/helene-nguyen-yumicode/">
@@ -31,63 +31,7 @@ Let's work together !
 
 ---
 
-<div align="center">
-
-|Specialization|TECHNO|
-|--|--|
-|**BACK END** 🔙🔚|
-||🧩 NodeJS
-||🏰 Typescript
-||📘 Express Framework
-||🍪 Cookies & Session
-||🗼 Authorization Json Web Token
-||🗺 DataMapper (queries) / Active Record (models)
-||🔄 ORM - Sequelize / Mongoose
-||🔐 Security encrypt datas Bcrypt - Joi - AJV
-||🖼 EJS views
-||✉️ Nodemailer
-||🎢 FTP server - Filezilla
-|**FRONT END**|---|
-||🎨 HTML/CSS
-||🎇 JAVASCRIPT
-||🎀 CSS Bootstrap / Bulma
-||🩱  SASS - Syntactically Awesome StyleSheet
-||🎏 ReactJS
-||🏰 Typescript
-|**VERSIONING**|---|
-||🐱‍👤 Git / GitHub / Gitea / Gitlab
-||🔴 SQITCH with Docker or Windows
-|**DATABASE**|---|
-||💼 SQL
-||🐘 PostgreSQL - PgAdmin
-||🎫 PLpgSQL Procedural Language // Functions - Views - Indexes
-||🗝 Ensure data security // Domains check value
-||📄 NoSQL
-||🍃 MongoDB - Mongosh/MongoDB Compass
-|**ARCHITECTURE**|---|
-||🎞 Models Views Controllers (MVC)
-||♾ API RESTful
-||☸ API GraphQL - Apollo Server Express Datasources / Dataloaders
-||📐 Hexagonal architecture
-|**PROGRAMMING**|---|
-||🕹OOP (Object Oriented Programming)
-|**METHOD**|---|
-||💢 Agile (Scrum)
-||🍒 Merise method (CDM, GPM, PDM)
-|**CMS**|---|
-||❇ Strapi
-||🎫 WordPress
-||🎃 Kirby open source
-|**DEPLOYMENT**|---|
-||♓ Heroku
-||🎫 VPS InstaFree
-|**DEVOPS**|---|
-||🐳 Docker
-||🅰️ Ansible
-|**DOCUMENTATION**|---|
-||🎊 JSdocs with SwaggerDocs
-
-</div>
+<div align="center"><img src='./yumicode.gif'></div>
 
 <hr>
 
@@ -101,8 +45,6 @@ Let's work together !
 <hr/>
 
 ## 🐍 Contributions
-
-![Snake animation](https://github.com/helene-nguyen/helene-nguyen/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=helene-nguyen&theme=ads-juicy-fresh' width="100%">
 </div>
