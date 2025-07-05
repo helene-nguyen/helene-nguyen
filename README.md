@@ -1,17 +1,11 @@
-<div align="center"><img src='./banner-yumicode.png'></div>
+<div align="center"><img src='./github-banner.png'></div>
 
-<div id="badges" align="center">
+<div id="badges" align="right">
   <a href="https://www.linkedin.com/in/helene-nguyen-yumicode/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/helene_yumicode">
-    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_yumicode/">
-    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge" alt="Twitter Badge"/>
-  </a>
   <a href="https://yumicode.net/">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Portfolio badge"/>
   </a>
 </div>
 
@@ -19,15 +13,17 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Helene.;I'm+a+fullstack+developper;And+database+administrator+!;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Helene.;I'm+a+software+engineer;And+love+learning+things+!;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
 
-Fullstack Developer, experienced in both Front-end and Back-end development, my name is Helene and my friends call me Yumi. I'm from France living in Colmar 🇫🇷
+Engineering Manager in CyberSecurity field, experienced in building, optimizing, and maintaining the Integrations for CyberThreat Intelligence platform OpenCTI, building robusts connectors, extensible integration architecture capable of supporting hundreds of data.
 
-I'm a passionate Software Developer & Database Administrator for PostgreSQL databases, working with a variety of technologies. From coding and deployment, to maintenance and updates. Using DevOps tools, I work hard to create clean architecture and clean code.
+I'm from France living in Colmar 🇫🇷.
+
+I'm a passionate Software Developer. From coding and deployment, to maintenance and updates. Using DevOps tools, I work hard to create clean architecture and clean code.
+
+I love open source projects. When an open-source application meets an open-source tool, it unlocks the full power of open collaboration and innovation!
 
 I'm smiling, I'm positive, super motivated, always willing to learn. I'm here to build positive relationships, find creative solutions to complex problems. I love pair programming and have a good team spirit.
-
-Let's work together !
 
 ---
 
@@ -55,4 +51,3 @@ Sources :
 
 - [Badges](https://shields.io/category/build)
 - [Contributions](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Integrte snake animation](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme)
